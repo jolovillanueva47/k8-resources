@@ -1,0 +1,19 @@
+{
+  "name": "k8-resource",
+  "version": "1.0.0",
+  "description": "",
+  "main": "k8-resource.js",
+  "bin": {
+    "kube-resource": "k8-resource.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "fs": "0.0.1-security"
+  }
+}
